@@ -156,7 +156,8 @@ public class Planets{
 
             sectorCaptureReplacements = ObjectMap.of(
             Blocks.metalTiles12, Blocks.metalTiles11,
-            Blocks.metalTiles6, Blocks.metalTiles10
+            Blocks.metalTiles6, Blocks.metalTiles10,
+            Blocks.metalTiles4, Blocks.metalTiles3
             );
         }};
 
